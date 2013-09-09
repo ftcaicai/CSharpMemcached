@@ -1,0 +1,10 @@
+D:\GitHub\CSharpMemcached\libMemcached\libMemcached\bin\Debug\libMemcached.dll
+D:\GitHub\CSharpMemcached\libMemcached\libMemcached\bin\Debug\libMemcached.pdb
+D:\GitHub\CSharpMemcached\libMemcached\libMemcached\bin\Debug\Commons.dll
+D:\GitHub\CSharpMemcached\libMemcached\libMemcached\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\GitHub\CSharpMemcached\libMemcached\libMemcached\bin\Debug\log4net.dll
+D:\GitHub\CSharpMemcached\libMemcached\libMemcached\obj\Debug\libMemcached.dll
+D:\GitHub\CSharpMemcached\libMemcached\libMemcached\obj\Debug\libMemcached.pdb
+D:\GitHub\CSharpMemcached\libMemcached\libMemcached\obj\Debug\libMemcached.csproj.GenerateResource.Cache
+D:\GitHub\CSharpMemcached\libMemcached\libMemcached\obj\Debug\libMemcached.csprojResolveAssemblyReference.cache
+D:\GitHub\CSharpMemcached\libMemcached\libMemcached\obj\Debug\libMemcached.StringMessages.resources

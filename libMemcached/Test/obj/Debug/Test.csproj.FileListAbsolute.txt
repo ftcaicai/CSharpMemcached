@@ -1,0 +1,10 @@
+D:\GitHub\CSharpMemcached\libMemcached\Test\bin\Debug\Test.exe.config
+D:\GitHub\CSharpMemcached\libMemcached\Test\bin\Debug\Test.exe
+D:\GitHub\CSharpMemcached\libMemcached\Test\bin\Debug\Test.pdb
+D:\GitHub\CSharpMemcached\libMemcached\Test\bin\Debug\libMemcached.dll
+D:\GitHub\CSharpMemcached\libMemcached\Test\bin\Debug\log4net.dll
+D:\GitHub\CSharpMemcached\libMemcached\Test\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\GitHub\CSharpMemcached\libMemcached\Test\bin\Debug\libMemcached.pdb
+D:\GitHub\CSharpMemcached\libMemcached\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+D:\GitHub\CSharpMemcached\libMemcached\Test\obj\Debug\Test.exe
+D:\GitHub\CSharpMemcached\libMemcached\Test\obj\Debug\Test.pdb

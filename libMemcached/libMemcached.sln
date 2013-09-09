@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "libMemcached", "libMemcached\libMemcached.csproj", "{30A2F238-2286-4419-B88F-7937CB362C6A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "libs", "libs", "{DB7E070C-6E59-478A-88FD-E1F4412EF045}"
+	ProjectSection(SolutionItems) = preProject
+		libs\Commons.dll = libs\Commons.dll
+		libs\ICSharpCode.SharpZipLib.dll = libs\ICSharpCode.SharpZipLib.dll
+		libs\log4net.dll = libs\log4net.dll
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{A45CC015-C64A-4328-A2F9-E1376E95CB46}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30A2F238-2286-4419-B88F-7937CB362C6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30A2F238-2286-4419-B88F-7937CB362C6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30A2F238-2286-4419-B88F-7937CB362C6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30A2F238-2286-4419-B88F-7937CB362C6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A45CC015-C64A-4328-A2F9-E1376E95CB46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A45CC015-C64A-4328-A2F9-E1376E95CB46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A45CC015-C64A-4328-A2F9-E1376E95CB46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A45CC015-C64A-4328-A2F9-E1376E95CB46}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
